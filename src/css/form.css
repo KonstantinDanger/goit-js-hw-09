@@ -1,0 +1,33 @@
+.feedback-form{
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+input{
+    display: block;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgb(153, 153, 153);
+    display: block;
+    margin: auto;
+}
+
+textarea{
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgb(153, 153, 153);
+    display: block;
+    margin: auto;
+}
+
+button{
+    color: white;
+    background-color: rgb(34, 133, 255);
+    border-color: rgb(34, 133, 255);
+    border-style: solid;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+}
